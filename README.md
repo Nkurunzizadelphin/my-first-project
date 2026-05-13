@@ -5,3 +5,4 @@ This is my first Git and GitHub project.
 - HTML website
 - Git version control
 - GitHub repository
+- Branching practice completed
